@@ -1,4 +1,4 @@
--**FinTech Association at Indiana University**
+**FinTech Association at Indiana University**
 
 - 👋 Hi, this is the FinTech Association at IU
 - 👀 We're a club at IU building a passion for FinTech.
