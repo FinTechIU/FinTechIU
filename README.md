@@ -4,6 +4,7 @@
 - 👀 We're a club at IU building a passion for FinTech.
 - 🌱 Below find our projects to date concerning Quant/Alpha Generation/HFT
 - 📫 Join our discord at: 
+- 💼 Follow us on LinkedIn: https://www.linkedin.com/company/fintechassociationiu/
 
 <!---
 FinTechIU/FinTechIU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
